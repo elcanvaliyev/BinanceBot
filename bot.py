@@ -3,7 +3,7 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-TOKEN = "8684809969:AAGOLW5jMbQqh7X9OgdkDC1H-6owjEN883E"
+TOKEN = "8684809969:AAGVDgUqCJLX3wyscQuRZU8BcMupYoToSHI"
 
 alerts = []
 

@@ -1,5 +1,4 @@
-python-telegram-bot
-requests
-pandas
-ccxt
-pandas-ta==0.3.14b0
+requests 
+pandas 
+ccxt 
+pandas-ta==0.3.14b0 

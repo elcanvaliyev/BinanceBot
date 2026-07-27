@@ -1,7 +1,5 @@
 python-telegram-bot
 requests
 pandas
-pandas-ta
 ccxt
-pandas
-python-telegram-bot
+git+https://github.com/twopirllc/pandas-ta.git

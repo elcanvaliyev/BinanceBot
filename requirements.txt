@@ -1,2 +1,7 @@
 python-telegram-bot
 requests
+pandas
+pandas-ta
+ccxt
+pandas
+python-telegram-bot
